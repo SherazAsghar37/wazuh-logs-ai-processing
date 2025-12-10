@@ -1,0 +1,8 @@
+
+pyvenv.cfg
+Scripts/
+Lib/
+Include/*
+app/__pycache__/
+app/predictions/__pycache__/
+*.pyc
